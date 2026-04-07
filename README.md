@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musa'ab</h1>
-<h3 align="center">A passionate Flutter developer & IT specialist from Yemen</h3>
+<h3 align="center">A passionate Flutter developer & IT specialist</h3>
 
 - 🔭 I’m currently working at [Technology Stars as a Software Engineer](https://tstars.it/)
 - 🌱 I’m currently learning **Laravel as a backend**
